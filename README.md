@@ -1,16 +1,16 @@
 # Availability-of-data-for-prospective-circular-economy
 This repository consists of data for performing prospective circular economy. The excel sheets in thsis repository provides the data of GHG avoided emissions, carbon tax value, market value of the biofuels, operating cost, GHG emitted emissions. The GHG avoided emission and GHG emitted values are derived from [activity-browser](https://github.com/LCA-ActivityBrowser/activity-browser) software. 
 The [carbon tax](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) , 
-[market values of the biofuels](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) and 
-[operating cost](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) are derived from the repistory. 
+[market values of the biofuels](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) are derived from this [repository](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) while the operating cost are derived from the excel sheet which is provided in the data folder of this repository. 
 #  Technology_1
-![image](https://github.com/user-attachments/assets/59a1a3ad-7f35-4d9c-bd2f-82b80b8f0b86)
+![image](https://github.com/user-attachments/assets/d1e36368-714a-4722-9542-9f33de61ee07)
 #  Technology 2
-![image](https://github.com/user-attachments/assets/e80b4586-77fb-45f9-8c58-97531d53bb3c)
+![image](https://github.com/user-attachments/assets/c20a00fb-da12-4431-9573-a23f8e2d80c9)
 #  Technology 3
-![image](https://github.com/user-attachments/assets/e694e9db-e5d5-4928-bd7c-536ad0fdfea4)
+![image](https://github.com/user-attachments/assets/1f02cbdc-3ed7-49a5-ae08-77075c9c0adb)
 #  Technology 4
-![image](https://github.com/user-attachments/assets/ecad56eb-6e50-4110-9a60-e0fd4d077387)
+![image](https://github.com/user-attachments/assets/cafddbec-8dfd-49fd-8c0a-a4f5cdd3c417)
+
 
 
 
