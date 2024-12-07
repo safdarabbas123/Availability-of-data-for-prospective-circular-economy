@@ -1,4 +1,9 @@
 # Availability-of-data-for-prospective-circular-economy
+
+Copyright 2024 Safdar Abbas
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Data Collection and sources 
 This repository consists of data for performing prospective circular economy. The excel sheets in thsis repository provides the data of GHG avoided emissions, carbon tax value, market value of the biofuels, operating cost, GHG emitted emissions. The GHG avoided emission and GHG emitted values are derived from [activity-browser](https://github.com/LCA-ActivityBrowser/activity-browser) software. 
 The [carbon tax](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) , 
 [market values of the biofuels](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) are derived from this [repository](https://github.com/safdarabbas123/Future_Price_of_Biomass_Electricity_based_on_REMIND2.1/tree/main) while the operating cost are derived from the excel sheet which is provided in the data folder of this repository. 
